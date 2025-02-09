@@ -18,8 +18,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## 📌 Projetos Destacados  
-🔹 **[Projeto 1]()** -  
-🔹 **[Projeto 2]()** -  
+🔹 **[Alura Plus](https://github.com/MilenaALima/aluraplus.git)** -
+📖 Este projeto foi desenvolvido a partir de uma aula com a **Escola Alura**.
+💡 O objetivo foi criar um **site de assinatura de planos**, aplicando boas práticas de **HTML e CSS** para desenvolver uma interface visual atraente e responsiva.  
+🎨 O design foi estruturado para proporcionar uma experiência intuitiva, com diferentes opções de planos organizadas de forma clara e acessível.  
 
 ## 📫 Contato  
 📧 E-mail: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  
