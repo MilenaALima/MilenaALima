@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim  
 🔹 Finalizando a faculdade de **Análise e Desenvolvimento de Sistemas**.  
-🔹 Apaixonado por desenvolvimento **Frontend**, buscando aprimorar minhas habilidades e criar interfaces incríveis.  
+🔹 Apaixonada por desenvolvimento **Frontend**, buscando aprimorar minhas habilidades e criar interfaces incríveis.  
 🔹 Experiência com **HTML, CSS, JavaScript, Python, C#, PL/SQL e SQL**.  
 🔹 Sempre explorando novas tecnologias e boas práticas de desenvolvimento.  
 
