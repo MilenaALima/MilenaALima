@@ -2,7 +2,7 @@
 
 🎯 Frontend Developer | Systems Analysis and Development Student
 
-## 💡 Sobre mim  
+## 💡 About Me 
 🔹 Finishing my degree in Systems Analysis and Development. <br>
 🔹 Passionate about Frontend development, always looking to improve my skills and create amazing interfaces. <br>
 🔹 Experience with HTML, CSS, JavaScript, Python, C#, PL/SQL, and SQL. <br>
@@ -17,14 +17,14 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-## 📌 Projetos Destacados  
+## 📌 Featured Projects 
 🔹 **[Alura Plus](https://github.com/MilenaALima/aluraplus.git)** - <br>
 📖 This project was developed as part of a lesson with Alura School. <br>
 💡 The goal was to create a subscription plan website, applying best practices in HTML and CSS to develop an attractive and responsive user interface. <br>
 🎨 The design was structured to provide an intuitive experience, with different plan options clearly and accessibly organized.
 
-## 📫 Contato  
-📧 E-mail: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  <br>
+## 📫 Contact  
+📧 Email: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  <br>
 🔗 LinkedIn: [https://www.linkedin.com/in/milenaaraujolima/](https://www.linkedin.com/in/milenaaraujolima/)  <br>
 🚀 Portfolio: [https://github.com/MilenaALima]([https://seusite.com](https://github.com/MilenaALima)) 
 
