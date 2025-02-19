@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Milena!
+# 👋 Hello, I'm Milena!
 
-🎯 Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas  
+🎯 Frontend Developer | Systems Analysis and Development Student
 
 ## 💡 Sobre mim  
-🔹 Finalizando a faculdade de **Análise e Desenvolvimento de Sistemas**.  
-🔹 Apaixonada por desenvolvimento **Frontend**, buscando aprimorar minhas habilidades e criar interfaces incríveis.  
-🔹 Experiência com **HTML, CSS, JavaScript, Python, C#, PL/SQL e SQL**.  
-🔹 Sempre explorando novas tecnologias e boas práticas de desenvolvimento.  
+🔹 Finishing my degree in Systems Analysis and Development.
+🔹 Passionate about Frontend development, always looking to improve my skills and create amazing interfaces.
+🔹 Experience with HTML, CSS, JavaScript, Python, C#, PL/SQL, and SQL.
+🔹 Constantly exploring new technologies and best development practices.  
 
 ## 🚀 Tecnologias e Ferramentas  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,9 +19,9 @@
 
 ## 📌 Projetos Destacados  
 🔹 **[Alura Plus](https://github.com/MilenaALima/aluraplus.git)** -
-📖 Este projeto foi desenvolvido a partir de uma aula com a **Escola Alura**.
-💡 O objetivo foi criar um **site de assinatura de planos**, aplicando boas práticas de **HTML e CSS** para desenvolver uma interface visual atraente e responsiva.  
-🎨 O design foi estruturado para proporcionar uma experiência intuitiva, com diferentes opções de planos organizadas de forma clara e acessível.  
+📖 This project was developed as part of a lesson with Alura School.
+💡 The goal was to create a subscription plan website, applying best practices in HTML and CSS to develop an attractive and responsive user interface.
+🎨 The design was structured to provide an intuitive experience, with different plan options clearly and accessibly organized.
 
 ## 📫 Contato  
 📧 E-mail: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  
@@ -29,4 +29,4 @@
 🚀 Portfólio: [https://github.com/MilenaALima]([https://seusite.com](https://github.com/MilenaALima))  
 
 ---
-⭐ **Se gostou dos meus projetos, deixe um star!** 🌟
+⭐ **If you like my projects, leave a star!** 🌟
