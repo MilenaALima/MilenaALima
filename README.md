@@ -24,11 +24,9 @@
 🎨 The design was structured to provide an intuitive experience, with different plan options clearly and accessibly organized.
 
 ## 📫 Contato  
-📧 E-mail: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  
-
-🔗 LinkedIn: [https://www.linkedin.com/in/milenaaraujolima/](https://www.linkedin.com/in/milenaaraujolima/)  
-
-🚀 Portfólio: [https://github.com/MilenaALima]([https://seusite.com](https://github.com/MilenaALima))  
+📧 E-mail: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  <br>
+🔗 LinkedIn: [https://www.linkedin.com/in/milenaaraujolima/](https://www.linkedin.com/in/milenaaraujolima/)  <br>
+🚀 Portfolio: [https://github.com/MilenaALima]([https://seusite.com](https://github.com/MilenaALima)) 
 
 ---
 ⭐ **If you like my projects, leave a star!** 🌟
