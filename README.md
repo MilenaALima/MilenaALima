@@ -22,6 +22,7 @@
 
 ## 📌 Projetos Destacados  
 🔹 **[Alura Plus](https://github.com/MilenaALima/aluraplus.git)** -
+
 📖 This project was developed as part of a lesson with Alura School.
 
 💡 The goal was to create a subscription plan website, applying best practices in HTML and CSS to develop an attractive and responsive user interface.
