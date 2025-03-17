@@ -8,7 +8,7 @@
 🔹 Experience with HTML, CSS, JavaScript, Python, C#, PL/SQL, and SQL. <br>
 🔹 Constantly exploring new technologies and best development practices.
 
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Technologies and Tools  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -17,11 +17,8 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-## 📌 Featured Projects 
-🔹 **[Alura Plus](https://github.com/MilenaALima/aluraplus.git)** - <br>
-📖 This project was developed as part of a lesson with Alura School. <br>
-💡 The goal was to create a subscription plan website, applying best practices in HTML and CSS to develop an attractive and responsive user interface. <br>
-🎨 The design was structured to provide an intuitive experience, with different plan options clearly and accessibly organized.
+## 📌 Most Used Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaALima&layout=compact&langs_count=6&theme=radical)
 
 ## 📫 Contact  
 📧 Email: [milena.2003lima@hotmail.com](mailto:seuemail@email.com)  <br>
